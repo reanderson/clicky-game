@@ -1,0 +1,73 @@
+[{
+    "id": 1,
+    "name": "Adonis Otogari",
+    "image": "/assets/img/Adonis.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Arashi Narukami",
+    "image": "/assets/img/Arashi.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Hokuto Hidaka",
+    "image": "/assets/img/Hokuto.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Koga Oogami",
+    "image": "/assets/img/Koga.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Makoto Yuuki",
+    "image": "/assets/img/Makoto.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Mao Isara",
+    "image": "/assets/img/Mao.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Mika Kagehira",
+    "image": "/assets/img/Mika.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Natsume Sakasaki",
+    "image": "/assets/img/Natsume.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Ritsu Sakuma",
+    "image": "/assets/img/Ritsu.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Souma Kanzaki",
+    "image": "/assets/img/Souma.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Yuzuru Fushimi",
+    "image": "/assets/img/Yuzuru.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Subaru Akehoshi",
+    "image": "/assets/img/Subaru.png",
+    "clicked": false
+  }
+]
