@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import characters from './characters.json';
+import characters from './characters';
 import Wrapper from './components/Wrapper'
 import PageHeader from './components/PageHeader.js';
 import ScoreTracker from './components/ScoreTracker.js';
