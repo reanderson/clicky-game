@@ -1,10 +1,12 @@
 import React, { Component } from 'react';
 import './App.css';
-import characters from './characters';
+import characters from './components/characters';
 import Wrapper from './components/Wrapper'
 import PageHeader from './components/PageHeader.js';
 import ScoreTracker from './components/ScoreTracker.js';
 import CharImg from './components/CharImg';
+
+console.log(characters)
 
 class App extends Component {
   state = {
